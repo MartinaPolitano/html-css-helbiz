@@ -71,3 +71,16 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.titolo-header {
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+  font-size: 50px;
+}
+
+.sottotitolo-header{
+  color: white;
+  text-align: center;
+  padding: none;
+}
